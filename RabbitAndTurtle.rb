@@ -66,6 +66,8 @@ end
 
 rabbit=Rabbit_Turtle.new(1,1)
 puts rabbit.Calculations
+print("yeah i push it back")
+
 
 
 
